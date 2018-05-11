@@ -3,8 +3,8 @@ package resolver_test
 import (
 	"testing"
 
-	"github.com/tonyghita/graphql-go-example/resolver"
-	"github.com/tonyghita/graphql-go-example/schema"
+	"github.com/kevinclcn/graphql-go-example/resolver"
+	"github.com/kevinclcn/graphql-go-example/schema"
 
 	graphql "github.com/graph-gophers/graphql-go"
 )

@@ -9,11 +9,11 @@ import (
 
 	graphql "github.com/graph-gophers/graphql-go"
 
-	"github.com/tonyghita/graphql-go-example/handler"
-	"github.com/tonyghita/graphql-go-example/loader"
-	"github.com/tonyghita/graphql-go-example/resolver"
-	"github.com/tonyghita/graphql-go-example/schema"
-	"github.com/tonyghita/graphql-go-example/swapi"
+	"github.com/kevinclcn/graphql-go-example/handler"
+	"github.com/kevinclcn/graphql-go-example/loader"
+	"github.com/kevinclcn/graphql-go-example/resolver"
+	"github.com/kevinclcn/graphql-go-example/schema"
+	"github.com/kevinclcn/graphql-go-example/swapi"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-required = ["github.com/jteeuwen/go-bindata"]
+required = ["github.com/kevinburke/go-bindata"]
 
 [[constraint]]
   branch = "master"

@@ -22,10 +22,10 @@
   revision = "25d685b0f0943742b2c7a0b8bf383206fb280e34"
 
 [[projects]]
-  name = "github.com/jteeuwen/go-bindata"
+  name = "github.com/kevinburke/go-bindata"
   packages = ["."]
-  revision = "bbd0c6e271208dce66d8fda4bc536453cd27fc4a"
-  version = "v3.0.7"
+  revision = "95df019c0747a093fef2832ae530a37fd2766d16"
+  version = "v3.7.0"
 
 [[projects]]
   name = "github.com/nicksrandall/dataloader"
@@ -58,6 +58,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "02df89942865d3fbdcb0b9154a571bcaea6a71e09a231b74c35ce4c4ab1b6416"
+  inputs-digest = "cab107bd433954424eb5d4cec59d0eec710d6752f4239111c83062e2c4d2d0e8"
   solver-name = "gps-cdcl"
   solver-version = 1

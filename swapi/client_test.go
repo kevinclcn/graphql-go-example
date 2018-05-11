@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/tonyghita/graphql-go-example/swapi"
+	"github.com/kevinclcn/graphql-go-example/swapi"
 )
 
 func TestClient(t *testing.T) {

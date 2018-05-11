@@ -7,8 +7,8 @@ import (
 
 	graphql "github.com/graph-gophers/graphql-go"
 
-	"github.com/tonyghita/graphql-go-example/errors"
-	"github.com/tonyghita/graphql-go-example/loader"
+	"github.com/kevinclcn/graphql-go-example/errors"
+	"github.com/kevinclcn/graphql-go-example/loader"
 )
 
 // The GraphQL handler handles GraphQL API requests over HTTP.

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/tonyghita/graphql-go-example/loader"
+	"github.com/kevinclcn/graphql-go-example/loader"
 )
 
 func TestPlanetLoader(t *testing.T) {

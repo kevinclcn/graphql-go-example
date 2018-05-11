@@ -1,5 +1,5 @@
 FROM golang:alpine AS build
-WORKDIR /go/src/github.com/tonyghita/graphql-go-example
+WORKDIR /go/src/github.com/kevinclcn/graphql-go-example
 COPY . .
 RUN go version && go env && go build -o /go/bin/example
 

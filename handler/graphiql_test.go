@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/tonyghita/graphql-go-example/handler"
+	"github.com/kevinclcn/graphql-go-example/handler"
 )
 
 func TestGraphiQLHandler(t *testing.T) {

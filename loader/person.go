@@ -6,8 +6,8 @@ import (
 
 	"github.com/nicksrandall/dataloader"
 
-	"github.com/tonyghita/graphql-go-example/errors"
-	"github.com/tonyghita/graphql-go-example/swapi"
+	"github.com/kevinclcn/graphql-go-example/errors"
+	"github.com/kevinclcn/graphql-go-example/swapi"
 )
 
 // LoadPerson loads a person resource from the SWAPI API URL.

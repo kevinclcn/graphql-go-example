@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tonyghita/graphql-go-example/errors"
-	"github.com/tonyghita/graphql-go-example/loader"
-	"github.com/tonyghita/graphql-go-example/swapi"
+	"github.com/kevinclcn/graphql-go-example/errors"
+	"github.com/kevinclcn/graphql-go-example/loader"
+	"github.com/kevinclcn/graphql-go-example/swapi"
 
 	graphql "github.com/graph-gophers/graphql-go"
 )
